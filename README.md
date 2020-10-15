@@ -1,2 +1,1 @@
-# data_visualization
-Data Visualization labs
+# Data Visualization
