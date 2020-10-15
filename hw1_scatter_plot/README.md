@@ -1,1 +1,2 @@
 
+## Develop the visual component of a simple scatter plot with random data of two types(rect, circle)
